@@ -12,3 +12,7 @@ n_countries(data)
 \description{
 Count the number of countries in a dataset
 }
+\examples{
+n_countries(key_crop_yields)
+
+}
