@@ -44,4 +44,6 @@ key_crop_yields
 #>  9 Afghanistan AFG    1961 barley                 1.08
 #> 10 Afghanistan AFG    1961 cocoa                 NA   
 #> # ... with 143,815 more rows
+n_countries(key_crop_yields)
+#> [1] 249
 ```
