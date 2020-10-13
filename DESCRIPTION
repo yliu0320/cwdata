@@ -23,5 +23,6 @@ Suggests:
     knitr,
     rmarkdown,
     ggplot2,
-    glue
+    glue,
+    testthat
 VignetteBuilder: knitr
