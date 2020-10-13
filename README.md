@@ -9,8 +9,9 @@
 status](https://github.com/yliu0320/cwdata/workflows/R-CMD-check/badge.svg)](https://github.com/yliu0320/cwdata/actions)
 <!-- badges: end -->
 
-The goal of cwdata is to provide datasets and functions for use in the
-ETC5523 ‘Communicating with Data’ course.
+The goal of cwdata is to provide datasets and functions for learning
+package development in the [Communicating with Data
+course(ETC5523)](https://cwd.numbat.space).
 
 ## Installation
 

@@ -19,3 +19,9 @@ Depends:
 Imports: 
     tibble,
     dplyr
+Suggests: 
+    knitr,
+    rmarkdown,
+    ggplot2,
+    glue
+VignetteBuilder: knitr
